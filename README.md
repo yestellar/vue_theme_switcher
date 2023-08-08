@@ -1,19 +1,6 @@
-# vue_theme_switcher
+## Dark Theme Switcher in Vue.js
 
-## Project setup
-```
-yarn install
-```
+### This repository contains the code for implementing a dark theme switcher using Vue.js. The theme switcher allows users to toggle between light and dark themes, enhancing the user experience.
+Tutorial Video
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Want to see how it's done? Check out the step-by-step tutorial on YouTube: [Creating a Dark Theme Switcher in Vue.js.](https://youtu.be/uIX_qC85az4)
